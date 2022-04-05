@@ -1,0 +1,15 @@
+[
+{"ano": "2021", "receita_liquida": "5204", "lucro_liquido": "1177", "custos": "-2051", "despesas_operacionais": "-1275", "impostos": "-426"},
+{"ano": "2020", "receita_liquida": "4799", "lucro_liquido": "996", "custos": "-1922", "despesas_operacionais": "-1308", "impostos": "-370"},
+{"ano": "2019", "receita_liquida": "4722", "lucro_liquido": "1080", "custos": "-1859", "despesas_operacionais": "-1230", "impostos": "-374"},
+{"ano": "2018", "receita_liquida": "4162", "lucro_liquido": "892", "custos": "-1681", "despesas_operacionais": "-1112", "impostos": "-273"},
+{"ano": "2017", "receita_liquida": "3869", "lucro_liquido": "686", "custos": "-1557", "despesas_operacionais": "-1178", "impostos": "-228"},
+{"ano": "2016", "receita_liquida": "3477", "lucro_liquido": "626", "custos": "-1446", "despesas_operacionais": "-1079", "impostos": "-163"},
+{"ano": "2015", "receita_liquida": "2971", "lucro_liquido": "438", "custos": "-1346", "despesas_operacionais": "-927", "impostos": "-102"},
+{"ano": "2014", "receita_liquida": "2617", "lucro_liquido": "421", "custos": "-1116", "despesas_operacionais": "-842", "impostos": "-130"},
+{"ano": "2013", "receita_liquida": "2370", "lucro_liquido": "402", "custos": "-942", "despesas_operacionais": "-787", "impostos": "-142"},
+{"ano": "2012", "receita_liquida": "2123", "lucro_liquido": "335", "custos": "-819", "despesas_operacionais": "-733", "impostos": "-110"},
+{"ano": "2011", "receita_liquida": "1742", "lucro_liquido": "284", "custos": "-727", "despesas_operacionais": "-522", "impostos": "-84"},
+{"ano": "2010", "receita_liquida": "1480", "lucro_liquido": "148", "custos": "-668", "despesas_operacionais": "-481", "impostos": "-56"},
+{"ano": "2009", "receita_liquida": "1389", "lucro_liquido": "137", "custos": "-630", "despesas_operacionais": "-452", "impostos": "-51"}
+]
